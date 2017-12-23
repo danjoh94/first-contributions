@@ -1,3 +1,4 @@
+- [Daniel Johansson](https://github.com/danjoh94)
 - [Kiefer Cover](https://github.com/kcover)
 - [Shaurya Gomber](https://github.com/shaurya31)
 - [Mike Schmitz] (https://github.com/misterschmitz)
